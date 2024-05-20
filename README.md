@@ -23,8 +23,8 @@ Result Visualization: Highlight fractures on original image.
 
 ## PROGRAM:
 ```
-Developed by: Priyanka.A
-Register No: 212222230113
+Developed by: KANISHKAR M
+Register No: 212222240044
 ```
 
 ```python
@@ -67,7 +67,8 @@ cv2.destroyAllWindows()
 ```
 ### OUTPUT:
 
-![image](https://github.com/PriyankaAnnadurai/Gray-scale-morphology/assets/118351569/e62cacaf-0bb6-418e-bc4f-0d4fe2b3a1cd)
+![image](https://github.com/KANISHKAR2607/Gray-scale-morphology/assets/118886772/5fce0bad-728a-47c5-add2-adb2214217d1)
+
 
 
 
